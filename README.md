@@ -19,9 +19,9 @@
 <p align="left">
 <a href="https://twitter.com/abdulbasitgggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulbasitgggg" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdul-basit-417920251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-basit-417920251" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/22200192/abdul-basit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/22200192/abdul-basit" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22200192/abdul-basit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/22200192/abdul-basit" height="30" width="40" /></a>
 <a href="https://fb.com/basitgggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basitgggg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@leadingbright" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@leadingbright" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@leadingbright" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@leadingbright" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
