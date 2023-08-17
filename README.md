@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
+<h3 align="center">Coding the Now, Building the Future | Eager to Shape the Future with Web3</h3>
 
 - 🌱 I’m currently learning **AWS**
 
