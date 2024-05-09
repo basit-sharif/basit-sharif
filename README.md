@@ -13,10 +13,9 @@
 
 - 📄 Know about my experiences [Portfolio](https://abdulbasit-self.vercel.app/)
 
-- ⚡ Fun fact **I am crazy about developement.\n
-My altitude will always be based on how you treat me! 👈🏼
+- ⚡ Fun fact: **I am crazy about development.**  
+My altitude will always be based on how you treat me! 👈🏼  
 Full Stack Cloud Developer || Software Engineer 💻
-**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/basitshariff) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/basitsharif35) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/basitsharif) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22200192) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/abdulbasitgggg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@leadingbright) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/basit-sharif) 
