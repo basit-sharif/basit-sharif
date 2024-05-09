@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://abdulbasit-self.vercel.app/](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://abdulbasit-self.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.healthydietreport.online/](healthydietreport)
+- 📝 I regularly write articles on [healthydietreport](https://www.healthydietreport.online/)
 
 - 💬 Ask me about **Reactjs,Nextjs**
 
