@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Abdul Basit</h1>
+<h1 align="center">Hi 👋, I'm Basit Sharif</h1>
 <h3 align="center">Coding the Now, Building the Future | Eager to Shape the Future with Web3</h3>
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://abdulbasit-self.vercel.app/](https://abdulbasit-self.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://abdulbasit-self.vercel.app/](Portfolio)
 
-- 📝 I regularly write articles on [https://front-end-blogger-web-1-ai.vercel.app/](https://front-end-blogger-web-1-ai.vercel.app/)
+- 📝 I regularly write articles on [https://www.healthydietreport.online/](healthydietreport)
 
 - 💬 Ask me about **Reactjs,Nextjs**
 
