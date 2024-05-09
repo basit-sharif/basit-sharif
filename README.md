@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://abdulbasit-self.vercel.app/)
 
-- 📝 I regularly write articles on [healthydietreport](https://www.healthydietreport.online/)
+- 📝 I regularly write articles on [Blogs](https://www.healthydietreport.online/)
 
 - 💬 Ask me about **Reactjs,Nextjs**
 
 - 📫 How to reach me **basitsharif35@gmail.com**
 
-- 📄 Know about my experiences [https://abdulbasit-self.vercel.app/](https://abdulbasit-self.vercel.app/)
+- 📄 Know about my experiences [Portfolio](https://abdulbasit-self.vercel.app/)
 
 - ⚡ Fun fact **I am crazy boy about developement.**
 
