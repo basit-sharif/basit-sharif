@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Portfolio](https://abdulbasit-self.vercel.app/)
 
-- ⚡ Fun fact **I am crazy about developement.
+- ⚡ Fun fact **I am crazy about developement.\n
 My altitude will always be based on how you treat me! 👈🏼
 Full Stack Cloud Developer || Software Engineer 💻
 **
