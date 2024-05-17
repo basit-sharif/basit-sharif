@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Basit Sharif</h1>
-<h3 align="center">Coding the Now, Building the Future | Eager to Shape the Future with Web3</h3>
+<h1 aria-label="abdul basit" align="center">Hi 👋, I'm Basit Sharif</h1>
+<h3 aria-label="basitsharif35" align="center">Coding the Now, Building the Future | Eager to Shape the Future with Web3</h3>
 
 - 🌱 I’m currently learning **AWS**
 
